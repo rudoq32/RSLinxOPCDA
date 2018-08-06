@@ -1,0 +1,12 @@
+C:\Projects\OPCDA\OPCDA\bin\x86\Debug\OPCDA.exe
+C:\Projects\OPCDA\OPCDA\bin\x86\Debug\OPCDA.pdb
+C:\Projects\OPCDA\OPCDA\bin\x86\Debug\OpcComRcw.dll
+C:\Projects\OPCDA\OPCDA\bin\x86\Debug\OpcNetApi.Com.dll
+C:\Projects\OPCDA\OPCDA\bin\x86\Debug\OpcNetApi.dll
+C:\Projects\OPCDA\OPCDA\bin\x86\Debug\OpcNetApi.Xml.dll
+C:\Projects\OPCDA\OPCDA\obj\x86\Debug\OPCDA.csproj.CoreCompileInputs.cache
+C:\Projects\OPCDA\OPCDA\obj\x86\Debug\OPCDA.csproj.CopyComplete
+C:\Projects\OPCDA\OPCDA\obj\x86\Debug\OPCDA.exe
+C:\Projects\OPCDA\OPCDA\obj\x86\Debug\OPCDA.pdb
+C:\Projects\OPCDA\OPCDA\bin\x86\Debug\OPCDA.exe.config
+C:\Projects\OPCDA\OPCDA\obj\x86\Debug\OPCDA.csprojAssemblyReference.cache
